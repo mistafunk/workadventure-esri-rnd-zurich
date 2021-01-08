@@ -27,7 +27,7 @@
                  "value":"https:\/\/play.workadventu.re\/_\/global\/mistafunk.github.io\/workadventure-esri-rnd-zurich\/map.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -39,7 +39,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
