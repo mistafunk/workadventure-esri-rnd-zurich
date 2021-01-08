@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"floor5\/map.json#startStairsLeft"
+                 "value":"floor5.json#startStairsLeft"
                 }],
          "type":"tilelayer",
          "visible":true,

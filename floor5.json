@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":34,
@@ -42,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/mistafunk.github.io\/workadventure-esri-rnd-zurich\/map.json"
+                 "value":"map.json#startStairsLeft"
                 }],
          "type":"tilelayer",
          "visible":true,
